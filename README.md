@@ -43,7 +43,7 @@ The backend contains a recommendation system (content-based filtering) and diffe
 
 1. **Navigate to the frontend directory:**
    ```bash
-   cd health-recommender-system/frontend
+   cd health-recommendation-system
    ```
 
 2. **Install the required dependencies:**
